@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ElasticButton">
+        <attr name="button_scale" format="float" />
+        <attr name="button_duration" format="integer" />
+        <attr name="button_cornerRadius" format="dimension" />
+    </declare-styleable>
+</resources>

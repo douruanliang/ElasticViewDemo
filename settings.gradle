@@ -1,0 +1,3 @@
+include ':elasticviews'
+include ':app'
+rootProject.name = "ElasticViewDemo"
